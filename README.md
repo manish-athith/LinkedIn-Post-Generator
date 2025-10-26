@@ -30,4 +30,4 @@ AI-powered tool that creates professional LinkedIn posts using LLaMA 3.2 and Gro
 - Groq API
 - python-dotenv
 
-Built with modern AI technologies.
+Built with modern AI technologies by MANISH CHOUDHARY.
